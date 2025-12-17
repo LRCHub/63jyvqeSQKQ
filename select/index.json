@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "綺羅キラー",
+  "base_artist": "ZUTOMAYO",
+  "createdAt": "2025-12-17T01:16:34.185029Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "綺羅キラー",
+      "artist": "ZUTOMAYO feat. Mori Calliope",
+      "has_synced": true,
+      "path": "select/01_綺羅キラー_ZUTOMAYO_feat._Mori_Calliope.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "綺羅キラー",
+      "artist": "ZUTOMAYO/Mori Calliope",
+      "has_synced": true,
+      "path": "select/02_綺羅キラー_ZUTOMAYO_Mori_Calliope.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "綺羅キラー (feat. Mori Calliope)",
+      "artist": "ZUTOMAYO",
+      "has_synced": true,
+      "path": "select/03_綺羅キラー_(feat._Mori_Calliope)_ZUTOMAYO.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "綺羅キラー",
+      "artist": "ZUTOMAYO",
+      "has_synced": true,
+      "path": "select/04_綺羅キラー_ZUTOMAYO.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "綺羅キラー",
+      "artist": "ZUTOMAYO, Mori Calliope",
+      "has_synced": true,
+      "path": "select/05_綺羅キラー_ZUTOMAYO,_Mori_Calliope.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "綺羅キラー - Kira Killer (feat. Mori Calliope)",
+      "artist": "ZUTOMAYO",
+      "has_synced": true,
+      "path": "select/06_綺羅キラー_-_Kira_Killer_(feat._Mori_Calliope)_ZUTOMAYO.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "綺羅キラー",
+      "artist": "Zutto Mayonaka De Iinoni. feat. Mori, Calliope",
+      "has_synced": true,
+      "path": "select/07_綺羅キラー_Zutto_Mayonaka_De_Iinoni._feat._Mori,_Calliope.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "綺羅キラー",
+      "artist": "ZUTOMAYO",
+      "has_synced": true,
+      "path": "select/08_綺羅キラー_ZUTOMAYO.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "綺羅キラー - Kira Killer (feat. Mori Calliope)",
+      "artist": "ZUTOMAYO",
+      "has_synced": true,
+      "path": "select/09_綺羅キラー_-_Kira_Killer_(feat._Mori_Calliope)_ZUTOMAYO.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "綺羅キラー",
+      "artist": "ずっと真夜中でいいのに。 feat. Mori Calliope",
+      "has_synced": false,
+      "path": "select/10_綺羅キラー_ずっと真夜中でいいのに。_feat._Mori_Calliope.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "綺羅キラー [feat. Mori Calliope]",
+      "artist": "ZUTOMAYO",
+      "has_synced": true,
+      "path": "select/11_綺羅キラー_[feat._Mori_Calliope]_ZUTOMAYO.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "綺羅キラー",
+      "artist": "ZUTOMAYO; Mori Calliope",
+      "has_synced": true,
+      "path": "select/12_綺羅キラー_ZUTOMAYO;_Mori_Calliope.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "綺羅キラー - 本格中華喫茶・愛のペガサス ~羅武の香辛龍~ 2024 / LIVE",
+      "artist": "ZUTOMAYO",
+      "has_synced": true,
+      "path": "select/13_綺羅キラー_-_本格中華喫茶・愛のペガサス_~羅武の香辛龍~_2024___LIVE_ZUTOMAYO.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "綺羅キラー",
+      "artist": "ずっと真夜中でいいのに。",
+      "has_synced": true,
+      "path": "select/14_綺羅キラー_ずっと真夜中でいいのに。.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "綺羅キラー",
+      "artist": "ずっと真夜中でいいのに。",
+      "has_synced": false,
+      "path": "select/pl_01_綺羅キラー_ずっと真夜中でいいのに。.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "綺羅キラー",
+      "artist": "ずっと真夜中でいいのに。",
+      "has_synced": false,
+      "path": "select/pl_02_綺羅キラー_ずっと真夜中でいいのに。.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "綺羅キラー (feat. Mori Calliope)",
+      "artist": "ずっと真夜中でいいのに。",
+      "has_synced": false,
+      "path": "select/pl_03_綺羅キラー_(feat._Mori_Calliope)_ずっと真夜中でいいのに。.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "綺羅キラー (feat. Mori Calliope)",
+      "artist": "ずっと真夜中でいいのに。",
+      "has_synced": false,
+      "path": "select/pl_04_綺羅キラー_(feat._Mori_Calliope)_ずっと真夜中でいいのに。.txt"
+    }
+  ]
+}
